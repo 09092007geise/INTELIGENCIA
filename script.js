@@ -5,17 +5,38 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "como é chamada a defesa de linha do campo?"
         alternativas: [
-            "Alternativa 1",
-            "Alternativa 2"
+            "zagueiros",
+            "goleiros"
         ]
     }
     {
-        enunciado: "Pergunta 2",
+        enunciado: "como se chama azul em inglês?",
         alternativas: [
-            "Alternativa 1",
-            "Alternativa 2"
+            "blue",
+            "red"
+        ]
+    },
+    {
+        enunciado: "qual a vaca mais leiteira do Brasil?"
+        alternativas: [
+            "zagueiros",
+            "goleiros"
+        ]
+    },
+    {
+        enunciado: "como se chama azul em inglês?",
+        alternativas: [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        enunciado: "como se chama azul em inglês?",
+        alternativas: [
+            "blue",
+            "red"
         ]
     }
 ]; 
