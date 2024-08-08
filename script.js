@@ -11,6 +11,7 @@ const perguntas = [
             "Goleiros"
         ]
     },
+    const perguntas = [
     {
         enunciado: "Como se chama azul em inglês?",
         alternativas: [
