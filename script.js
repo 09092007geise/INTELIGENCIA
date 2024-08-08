@@ -5,38 +5,38 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "como é chamada a defesa de linha do campo?"
+        enunciado: "Como é chamada a defesa de linha do campo?"
         alternativas: [
-            "zagueiros",
-            "goleiros"
+            "Zagueiros",
+            "Goleiros"
         ]
     }
     {
-        enunciado: "como se chama azul em inglês?",
+        enunciado: "Como se chama azul em inglês?",
         alternativas: [
-            "blue",
-            "red"
+            "Blue",
+            "Red"
         ]
     },
     {
-        enunciado: "qual a vaca mais leiteira do Brasil?"
+        enunciado: "Qual a vaca mais leiteira em relacao as alternativas?"
         alternativas: [
-            "zagueiros",
-            "goleiros"
+            "Holandeza",
+            "Nelore"
         ]
     },
     {
-        enunciado: "como se chama azul em inglês?",
+        enunciado: "Quantas havan existem no Brasil?",
         alternativas: [
-            "blue",
-            "red"
+            "175",
+            "207"
         ]
     },
     {
-        enunciado: "como se chama azul em inglês?",
+        enunciado: "Quem canta a musica haja colirio?",
         alternativas: [
-            "blue",
-            "red"
+            "Jads & Jadson",
+            "Guilherme & Benuto"
         ]
     }
 ]; 
