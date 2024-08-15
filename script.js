@@ -39,7 +39,7 @@ const perguntas = [
             "Guilherme & Benuto"
         ]
     }
-]; 
+] 
 let atual = 0;
 let perguntaAtual;
 
