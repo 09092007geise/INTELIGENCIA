@@ -7,7 +7,7 @@ const perguntas = [
     {
         enunciado: "Como é chamada a defesa de linha do campo?",
         alternativas: [
-            "Zagueiros";
+            "Zagueiros",
             "Goleiros"
         ]
     },
