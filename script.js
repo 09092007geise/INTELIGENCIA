@@ -9,11 +9,11 @@ const perguntas = [
         "Como é chamada a defesa de linha do campo",
       alternativas: [
         {
-          texto: "Isso é assustador!",
+          texto: "Zagueiro!",
           afirmacao: "afirmação",
         },
         {
-          texto: "Isso é maravilhoso!",
+          texto: "Goleiro!",
           afirmacao: "afirmação",
         },
       ],
