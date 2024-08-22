@@ -20,39 +20,39 @@ const perguntas = [
     },
     {
       enunciado:
-        "como se chama azul em inglês?",
+        "Como se chama azul em inglês?",
       alternativas: [
         {
           texto:
-            "blue.",
+            "Blue.",
           afirmacao: "afirmação",
         },
         {
           texto:
-            "red.",
+            "Red.",
           afirmacao: "afirmação",
         },
       ],
     },
     {
       enunciado:
-        "qual a vaca mais leiteira entre as alternativas abaixo?",
+        "Qual a vaca mais leiteira entre as alternativas abaixo?",
       alternativas: [
         {
           texto:
-            "holandeza.",
+            "Holandeza.",
           afirmacao: "afirmação",
         },
         {
           texto:
-            "nelore.",
+            "Nelore.",
           afirmacao: "afirmação",
         },
       ],
     },
     {
       enunciado:
-        "quantas havan existem no Brasil?",
+        "Quantas havan existem no Brasil?",
       alternativas: [
         {
           texto:
@@ -67,16 +67,16 @@ const perguntas = [
     },
     {
       enunciado:
-        "? ",
+        "Quem canta a musica haja colirio? ",
       alternativas: [
         {
           texto:
-            "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
+            "Jads & Jadson.",
           afirmacao: "afirmação",
         },
         {
           texto:
-            "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
+            "Guilherme & Benuto.",
           afirmacao: "afirmação",
         },
       ],
@@ -101,5 +101,7 @@ function mostraAlternativas() {
       caixaAlternativas.appendChild(botaoAlternativas);
     }
   }
+  
 mostraPergunta();
+
 
